@@ -1,0 +1,135 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:686px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:500px;
+  height:189px;
+  background:inherit;
+  background-color:rgba(153, 153, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u0 {
+  border-width:0px;
+  position:absolute;
+  left:186px;
+  top:418px;
+  width:500px;
+  height:189px;
+}
+#u1 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:86px;
+  width:496px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:251px;
+  height:27px;
+}
+#u2 {
+  border-width:0px;
+  position:absolute;
+  left:311px;
+  top:464px;
+  width:251px;
+  height:27px;
+  font-family:'迷你简综艺 Bold', '迷你简综艺';
+  font-weight:700;
+  font-style:normal;
+}
+#u3 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:251px;
+  white-space:nowrap;
+}
+#u4_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:134px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'迷你简综艺 Bold', '迷你简综艺';
+  font-weight:700;
+  font-style:normal;
+}
+#u4 {
+  border-width:0px;
+  position:absolute;
+  left:370px;
+  top:503px;
+  width:134px;
+  height:20px;
+  font-family:'迷你简综艺 Bold', '迷你简综艺';
+  font-weight:700;
+  font-style:normal;
+}
+#u5 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:134px;
+  white-space:nowrap;
+}
+#u6_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:500px;
+  height:479px;
+}
+#u6 {
+  border-width:0px;
+  position:absolute;
+  left:186px;
+  top:-61px;
+  width:500px;
+  height:479px;
+}
+#u7 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:232px;
+  width:496px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
